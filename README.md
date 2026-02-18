@@ -8,7 +8,7 @@ Users can sign in using Google, save private bookmarks, and experience real-time
 
 ## 🚀 Live Demo
 
-🔗 Live URL: [YOUR_VERCEL_URL_HERE]
+🔗 Live URL:https://smart-bookmark-app-nu-one-15.vercel.app/
 
 ---
 
